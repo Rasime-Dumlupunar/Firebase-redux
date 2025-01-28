@@ -9,9 +9,8 @@ Bu proje, kullanıcıların aşağıdaki işlemleri yapmasına olanak tanıyan *
 
 Platform, kullanıcı hesaplarını yönetmek için **Firebase Authentication** kullanır ve kullanıcı durumlarını gerçek zamanlı olarak güncelleyebilir.
 
----
 
-## 📚 Özellikler
+##  Özellikler
 
 - **E-posta ile Kayıt**: Kullanıcılar e-posta ve şifre kullanarak hesap oluşturabilir.
 - **Profil Fotoğrafı Yükleme**: Kullanıcılar kayıt olduktan sonra profil fotoğrafı yükleyebilir.
@@ -19,9 +18,8 @@ Platform, kullanıcı hesaplarını yönetmek için **Firebase Authentication** 
 - **Çıkış Yapma**: Kullanıcılar hesaplarından güvenli bir şekilde çıkış yapabilir.
 - **Kullanıcı Durum Yönetimi**: Redux Toolkit, global kimlik doğrulama durumunu yönetmek için kullanılır.
 
----
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - **React**: Arayüz geliştirme için.
 - **Redux Toolkit**: Global durum yönetimi için.
@@ -43,7 +41,7 @@ The platform uses **Firebase Authentication** to manage user accounts and update
 
 ---
 
-## 📚 Features
+## Features
 
 - **Email Sign-Up**: Users can create accounts using email and password.
 - **Profile Picture Upload**: Users can upload a profile picture after registration.
@@ -53,7 +51,7 @@ The platform uses **Firebase Authentication** to manage user accounts and update
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **React**: For building the user interface.
 - **Redux Toolkit**: For global state management.
