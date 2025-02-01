@@ -39,7 +39,6 @@ This project is a **React-based authentication platform** that allows users to p
 
 The platform uses **Firebase Authentication** to manage user accounts and updates user status in real time.
 
----
 
 ## Features
 
@@ -48,8 +47,6 @@ The platform uses **Firebase Authentication** to manage user accounts and update
 - **Password Update**: Users can securely change their passwords.
 - **Logout**: Users can securely log out from their accounts.
 - **User State Management**: Redux Toolkit is used to manage the global authentication state.
-
----
 
 ##  Technologies Used
 
